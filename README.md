@@ -14,7 +14,7 @@ MIT License.
 
 ## Deployment
 
-[Heroku]()
+[Heroku](https://tech-hints-blog.herokuapp.com/)
 
 ## User Story
 
